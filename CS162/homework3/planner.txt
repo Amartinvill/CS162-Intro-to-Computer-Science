@@ -1,0 +1,4 @@
+classes	fall	2014	need to sign up for 12 cridits	none 	none
+1	2	2	2	2	2
+3	3	3	3	3	3
+4	4	4	4	4	4
